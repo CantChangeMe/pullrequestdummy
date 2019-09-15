@@ -1,2 +1,3 @@
 # pullrequestdummy
-I have created to learn how pull request works.
+I have created this repo to learn how pull request works.
+
